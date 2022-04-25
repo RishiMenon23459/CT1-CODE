@@ -3,6 +3,7 @@
 
 int main()
 {
+    
     int n, sum = 0, c, value;
     
     printf("Enter the number of integers you want to add\n");
